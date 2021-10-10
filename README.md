@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rahul14237
+- 👋 Hi, I’m @Rahul Patil
 - 👀 I’m interested in embedded C, embedded development, python, AI, tinyML, ARM architecture, communication stacks like IO-Link, IO-Link Wireless, BLE, 5G.
 - 🌱 I’m currently learning embedded development using freeRTOS. Also I'm passionate about AI and obiviously tinyML.TinyML: intersection of ML and embedded world.
 - 💞️ I’m looking to collaborate on embedded development, python, tinyML, simulations, communication protocols: IO-Link(IOL) IOLW BLE 5G and digital twin.
